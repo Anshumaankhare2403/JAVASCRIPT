@@ -33,3 +33,6 @@
 //     j--;
 // }
 
+
+// const str = "anujkhare";
+// console.log(str)

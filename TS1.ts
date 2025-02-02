@@ -1,2 +1,2 @@
-let myway: string = "anuj";
-console.log(myway);
+let my_way: string = "anuj";
+console.log(my_way);
